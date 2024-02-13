@@ -1,0 +1,84 @@
+ #titulo { 
+ color: darkturquoise; 
+}
+
+/* Estilo para el texto "Suspendisse gravida" de color rojo */
+.parrafo1 strong {
+    color: red;
+}
+
+.parrafo1 b {
+    color: orange;
+}
+
+/* Estilo para el h2 de color azul */
+h2 {
+    color: blue;
+}
+
+/* Estilo para el texto "aliquam non" de color azul */
+.parrafo2 em {
+    color: blue;
+}
+
+/* Estilo para el texto y subrayado específico de color rojo */
+.parrafo2 a[href="#"] {
+    color: red;
+    text-decoration: underline;
+}
+
+/* Estilo para el texto "porttitor purus ac elit" de color morado */
+.parrafo2 b {
+    color: purple;
+}
+
+/* Estilo para el texto "Titulo de la tabla" de color azul */
+caption {
+    color: blue;
+}
+
+.textTablarojo {
+
+	color: red;
+} 
+
+.textTabla2 {
+
+	color: orange;
+}
+
+.textTabla3 b {
+
+	color: green;
+}
+
+.textTabla3 em {
+
+	color: green;
+}
+
+.textTabla3 strong {
+
+	color: orange;
+}
+
+.parrafo3  {
+    color:#82B024;
+}
+
+.parrafo4 {
+    color:#82B024;
+}
+
+.parrafo4 b {
+    color: #D85DBB;
+}
+
+.parrafo5 {
+    color: #82B024;
+}
+
+.parrafo5 a[href="#"] {
+    color: green;
+    text-decoration: underline;
+}
